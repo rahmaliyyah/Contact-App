@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ContactAppFirebasePAM</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="save">Simpan</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="uid">Uid</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="logout">Keluar</string>
+    <string name="welcome">Selamat Datang,</string>
+    <string name="add_note">Tambah Note</string>
+
+    <string name="auto_login">Auto Login</string>
+
+    <string name="save_note">Save Note</string>
+    <string name="update_note">Update Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="next_note">Next Note</string>
+    <string name="prev_note">Previous Note</string>
+    <string name="new_note">New Note</string>
+    <string name="register_text">Register</string>
+    <dimen name="dimen_16_margin">16dp</dimen>
+</resources>
